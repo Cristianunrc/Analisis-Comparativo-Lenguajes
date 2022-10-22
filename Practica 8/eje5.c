@@ -22,4 +22,5 @@ int main (){
 	
 	printf ("Valor basura: %d", q->info); // se muestra basura, tambien puede hacerse: p->info
 	
+	return 0;
 }
